@@ -1,0 +1,7 @@
+C:\Users\amitdubey01\source\repos\ImportProducts.Service\bin\Debug\netstandard2.0\ImportProducts.Service.deps.json
+C:\Users\amitdubey01\source\repos\ImportProducts.Service\bin\Debug\netstandard2.0\ImportProducts.Service.dll
+C:\Users\amitdubey01\source\repos\ImportProducts.Service\bin\Debug\netstandard2.0\ImportProducts.Service.pdb
+C:\Users\amitdubey01\source\repos\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.AssemblyInfoInputs.cache
+C:\Users\amitdubey01\source\repos\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.AssemblyInfo.cs
+C:\Users\amitdubey01\source\repos\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.dll
+C:\Users\amitdubey01\source\repos\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.pdb

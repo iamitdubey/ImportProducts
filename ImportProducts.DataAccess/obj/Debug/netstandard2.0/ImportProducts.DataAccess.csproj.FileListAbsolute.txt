@@ -1,0 +1,7 @@
+C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\bin\Debug\netstandard2.0\ImportProducts.DataAccess.deps.json
+C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\bin\Debug\netstandard2.0\ImportProducts.DataAccess.dll
+C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\bin\Debug\netstandard2.0\ImportProducts.DataAccess.pdb
+C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.AssemblyInfoInputs.cache
+C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.AssemblyInfo.cs
+C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.dll
+C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.pdb
