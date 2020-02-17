@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amitdubey01\\source\\repos\\ImportProducts.DataAccess\\ImportProducts.DataAccess.csproj",
+      "projectUniqueName": "D:\\Personal\\Git\\ImportProducts\\ImportProducts.DataAccess\\ImportProducts.DataAccess.csproj",
       "projectName": "ImportProducts.DataAccess",
-      "projectPath": "C:\\Users\\amitdubey01\\source\\repos\\ImportProducts.DataAccess\\ImportProducts.DataAccess.csproj",
+      "projectPath": "D:\\Personal\\Git\\ImportProducts\\ImportProducts.DataAccess\\ImportProducts.DataAccess.csproj",
       "packagesPath": "C:\\Users\\amitdubey01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amitdubey01\\source\\repos\\ImportProducts.DataAccess\\obj\\",
+      "outputPath": "D:\\Personal\\Git\\ImportProducts\\ImportProducts.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

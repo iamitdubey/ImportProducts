@@ -5,3 +5,11 @@ C:\Users\amitdubey01\source\repos\ImportProducts.Service\obj\Debug\netstandard2.
 C:\Users\amitdubey01\source\repos\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.AssemblyInfo.cs
 C:\Users\amitdubey01\source\repos\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.dll
 C:\Users\amitdubey01\source\repos\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.pdb
+D:\Personal\Git\ImportProducts\ImportProducts.Service\bin\Debug\netstandard2.0\ImportProducts.Service.deps.json
+D:\Personal\Git\ImportProducts\ImportProducts.Service\bin\Debug\netstandard2.0\ImportProducts.Service.dll
+D:\Personal\Git\ImportProducts\ImportProducts.Service\bin\Debug\netstandard2.0\ImportProducts.Service.pdb
+D:\Personal\Git\ImportProducts\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.csprojAssemblyReference.cache
+D:\Personal\Git\ImportProducts\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.AssemblyInfoInputs.cache
+D:\Personal\Git\ImportProducts\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.AssemblyInfo.cs
+D:\Personal\Git\ImportProducts\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.dll
+D:\Personal\Git\ImportProducts\ImportProducts.Service\obj\Debug\netstandard2.0\ImportProducts.Service.pdb

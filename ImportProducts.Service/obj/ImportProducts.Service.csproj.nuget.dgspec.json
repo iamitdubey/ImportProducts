@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amitdubey01\\source\\repos\\ImportProducts.Service\\ImportProducts.Service.csproj": {}
+    "D:\\Personal\\Git\\ImportProducts\\ImportProducts.Service\\ImportProducts.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amitdubey01\\source\\repos\\ImportProducts.Service\\ImportProducts.Service.csproj": {
+    "D:\\Personal\\Git\\ImportProducts\\ImportProducts.Service\\ImportProducts.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amitdubey01\\source\\repos\\ImportProducts.Service\\ImportProducts.Service.csproj",
+        "projectUniqueName": "D:\\Personal\\Git\\ImportProducts\\ImportProducts.Service\\ImportProducts.Service.csproj",
         "projectName": "ImportProducts.Service",
-        "projectPath": "C:\\Users\\amitdubey01\\source\\repos\\ImportProducts.Service\\ImportProducts.Service.csproj",
+        "projectPath": "D:\\Personal\\Git\\ImportProducts\\ImportProducts.Service\\ImportProducts.Service.csproj",
         "packagesPath": "C:\\Users\\amitdubey01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amitdubey01\\source\\repos\\ImportProducts.Service\\obj\\",
+        "outputPath": "D:\\Personal\\Git\\ImportProducts\\ImportProducts.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

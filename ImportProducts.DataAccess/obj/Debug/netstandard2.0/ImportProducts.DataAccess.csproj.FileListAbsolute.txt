@@ -5,3 +5,11 @@ C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\obj\Debug\netstandar
 C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.AssemblyInfo.cs
 C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.dll
 C:\Users\amitdubey01\source\repos\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.pdb
+D:\Personal\Git\ImportProducts\ImportProducts.DataAccess\bin\Debug\netstandard2.0\ImportProducts.DataAccess.deps.json
+D:\Personal\Git\ImportProducts\ImportProducts.DataAccess\bin\Debug\netstandard2.0\ImportProducts.DataAccess.dll
+D:\Personal\Git\ImportProducts\ImportProducts.DataAccess\bin\Debug\netstandard2.0\ImportProducts.DataAccess.pdb
+D:\Personal\Git\ImportProducts\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.csprojAssemblyReference.cache
+D:\Personal\Git\ImportProducts\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.AssemblyInfoInputs.cache
+D:\Personal\Git\ImportProducts\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.AssemblyInfo.cs
+D:\Personal\Git\ImportProducts\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.dll
+D:\Personal\Git\ImportProducts\ImportProducts.DataAccess\obj\Debug\netstandard2.0\ImportProducts.DataAccess.pdb
